@@ -7,7 +7,7 @@
         subtitle on modules listing or apps.openerp.com""",
 
     'description': """
-        Long description of module's purpose
+        These is a test module for icecat API connection
     """,
 
     'author': "My Company",
